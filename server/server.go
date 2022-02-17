@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	pb "github.com/lotus_research/lotus-sector-counter/proto"
+	pb "github.com/Chain-research/lotus-sector-counter/proto"
 
 	"google.golang.org/grpc"
 )

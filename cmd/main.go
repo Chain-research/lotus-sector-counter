@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	client "github.com/lotus_research/lotus-sector-counter/client"
-	server "github.com/lotus_research/lotus-sector-counter/server"
+	client "github.com/Chain-research/lotus-sector-counter/client"
+	server "github.com/Chain-research/lotus-sector-counter/server"
 )
 
 func main() {
